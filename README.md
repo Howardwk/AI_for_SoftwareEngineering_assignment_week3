@@ -2,25 +2,7 @@
 
 This repository contains the complete implementation for the AI assignment covering theoretical understanding, practical implementation, and ethical considerations.
 
-## Project Structure
 
-```
-├── Part1_Theoretical/
-│   ├── theoretical_questions.md
-│   └── comparative_analysis.md
-├── Part2_Practical/
-│   ├── Task1_Iris_Classification/
-│   │   └── iris_classification.ipynb
-│   ├── Task2_MNIST_CNN/
-│   │   └── mnist_cnn.ipynb
-│   └── Task3_spaCy_NLP/
-│       └── spacy_ner_sentiment.ipynb
-├── Part3_Ethics/
-│   ├── ethical_analysis.md
-│   └── debug_challenge.py
-├── requirements.txt
-└── README.md
-```
 
 ## Setup Instructions
 
